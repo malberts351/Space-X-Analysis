@@ -28,7 +28,12 @@ b.   This project relates to this job posting in the sense that I am working wit
 The data for this project was retrived through the followng API: https://api.spacexdata.com/v3
 It provides data for many different fields, I specifically used the payloads, ships, launches, and capsules sections.
 
+
+
 ### Future Improvements
 
 I would have loved to have access to more data directly from SpaceX.  The only API I was able to find was one that was generally cobbeled together from public information.  
 To have access to data directly from SpaceX I think would have yielded a lot better insights and would have been a lot more interesting to dive deeper into.
+
+[sql_analysis.ipynb](url)
+[data_collection.ipynb](url)
