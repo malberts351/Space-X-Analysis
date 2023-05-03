@@ -36,4 +36,5 @@ I would have loved to have access to more data directly from SpaceX.  The only A
 To have access to data directly from SpaceX I think would have yielded a lot better insights and would have been a lot more interesting to dive deeper into.
 
 [sql_analysis.ipynb](url)
+
 [data_collection.ipynb](url)
